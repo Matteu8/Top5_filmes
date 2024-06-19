@@ -1,0 +1,34 @@
+html {
+    background-color: black;
+}
+
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+div.fora{
+    color: blue;
+}
+div:not(.fora) {
+    color: red;
+}
+iframe {
+    border-color: white;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: white;
+}
+#T3 {
+    color: white;
+}
+.img {
+    border: 1px solid; color: white; 
+}
+.textcent {
+    text-align: center;
+    
+}
