@@ -18,10 +18,16 @@ img{
     border: 5px blue solid;
 }
 .espacamento{
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 #rustitle{
     text-align: center;
     font-size: 33px;
+}
+#linha{
+    background-color: black;
+    width: 100%;
+    height: 6px;
+    border: #ffff00 solid 3px;
 }
