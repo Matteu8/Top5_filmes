@@ -1,0 +1,5 @@
+div {
+    border: red dotted 3px; /* Borda */
+    width: 100px; /* Comprimento */
+    height: 100px; /* Altura */
+}

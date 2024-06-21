@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    text-align: center;
+}
+img{
+    border: black 3px solid;
+    width: 640px;
+    height: 460px;
+    border-radius: 30px;
+}
+#Borda{
+    border: 5px blue solid;
+}
+.espacamento{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+#rustitle{
+    text-align: center;
+    font-size: 33px;
+}
